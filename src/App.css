@@ -1,0 +1,46 @@
+.css-tela {
+  display: flex;
+  padding: 0 20px;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: #444;
+  flex-direction: column;
+  width: 260px;
+}
+
+.css-tela-oper {
+  font-size: 25px;
+  color: #fff;
+  height: 20px;
+}
+
+.css-tela-res {
+  font-size: 50px;
+  color: #fff
+}
+
+.css-btn {
+  font-size: 30px;
+  height: 75px;
+  width: 75px;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+  border-color: #000;
+  text-align: center;
+  outline: none;
+}
+
+.css-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  width: 300px;
+  border: 1px solid black;
+}
+
+.css-botoes {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
